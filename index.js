@@ -1,0 +1,1 @@
+console.log('Backend for Just Note App');
